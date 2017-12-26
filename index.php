@@ -7,5 +7,5 @@ require __DIR__ . '/vendor/autoload.php';
 // S = Single Responsibility
 // new App\SRP\Init;
 
-// O = Open-close
+// O = Open-Closed
 new App\OCP\Init;
