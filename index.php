@@ -8,4 +8,13 @@ require __DIR__ . '/vendor/autoload.php';
 // new App\SRP\Init;
 
 // O = Open-Closed
-new App\OCP\Init;
+// new App\OCP\Init;
+
+// L = Liskov Substitution
+// new App\LSP\Init;
+
+// I = Interface Segregation
+// new App\ISP\Init;
+
+// D = Dependency Inversion
+new App\DIP\Init;

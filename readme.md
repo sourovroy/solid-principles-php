@@ -2,7 +2,7 @@
 
 ### S = Single Responsibility
 
-### O = Open-Closed 
+### O = Open/Closed 
 
 ### L =  Liskov Substitution
 
